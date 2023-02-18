@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> 🌱👨‍💻 My first page build Associating JavaScript with HTML and CSSImplemented functions in JavaScript Investigate code troubleshooting possibilities. I chose the appropriate logical operator for different situations Generating simple solutions for dynamic pages
+> 🌱👨‍💻 My first page build Associating JavaScript with HTML and CSSImplemented functions in JavaScript Investigate code troubleshooting possibilities. I chose the appropriate logical operator for different situations Generating simple solutions for dynamic pages.I created the site using the Alura course.
 
 
 ## Download
