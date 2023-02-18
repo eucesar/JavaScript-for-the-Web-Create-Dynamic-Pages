@@ -11,7 +11,7 @@
 ## Download
 
 ```sh
-https://github.com/eucesar/JavaScript-for-the-Web-Create-Dynamic-Page.git
+https://github.com/eucesar/JavaScript-for-the-Web-Create-Dynamic-Pages.git
 ```
 
 ## Cesar
