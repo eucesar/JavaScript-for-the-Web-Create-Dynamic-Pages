@@ -5,7 +5,7 @@
   <img align="center" alt="Cesar-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 </p>
 
-> 🌱👨‍💻 Identified the role each web technology played in my first one-page build Associating JavaScript with HTML via the DOM. I created the site using the Alura course.
+> 🌱👨‍💻 Implemented functions in JavaScript Investigate code troubleshooting possibilities. I chose the appropriate logical operator for different situations Generating simple solutions for dynamic pages
 
 
 ## Download
